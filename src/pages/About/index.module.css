@@ -1,0 +1,26 @@
+.about {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about p {
+    color: #8c8c8c;
+    margin-bottom: 2em;
+}
+
+.about a {
+    display: block;
+    margin-top: 15px;
+    padding: 10px 15px;
+}
+
+#udemyLink {
+    color: #8c8c8c;
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+#udemyLink:hover { color: #bbb; }
