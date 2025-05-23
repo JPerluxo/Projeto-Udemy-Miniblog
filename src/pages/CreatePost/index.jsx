@@ -1,5 +1,5 @@
 import { React, useState } from "react";
-import styles from './index.module.css';
+import styles from "./index.module.css";
 
 import { Navigate, useNavigate } from "react-router-dom";
 import { useAuthValue } from "../../context/AuthContext";
